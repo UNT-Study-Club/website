@@ -69,12 +69,7 @@ img {
 .pagetitle_div {
   background-color: #6a8ea4;
   color: white;
-  height: 30%;
-  /*
-  text-align: center;
-  line-height: 1500%;
-  float: inline;
-  */
+  height: 40%;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -85,5 +80,5 @@ img {
   text-align: center;
   font-family: Georgia, serif;
   vertical-align: middle;
-  font-size: 300%;
+  font-size: 400%;
 }
