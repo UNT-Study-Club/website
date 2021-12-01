@@ -48,12 +48,14 @@ img {
   padding: 0px;
   font-size: 250%;
   margin: 0px;
+  max-height: 30px;
 }
 
 .content_text {
   font-size: 170%;
   padding: 0px;
   margin: 0px;
+  max-height: 270px;
 }
 
 /* positioning */
