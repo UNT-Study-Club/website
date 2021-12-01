@@ -9,6 +9,7 @@
 
 .content_image.left {
   margin-right: none;
+  padding-right: none;
 }
 
 /*  fix margin */
@@ -33,6 +34,7 @@ img {
 
 .content_textbox.right {
   margin-left: none;
+  padding-left: none;
 }
 
 .context_texttitle {
