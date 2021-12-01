@@ -59,15 +59,15 @@ img {
 /* positioning */
 
 .left {
-  margin-right: none;
-  padding-right: none;
-  float: left;
+  margin-right: none !important;
+  padding-right: none !important;
+  float: left !important;
 }
 
 .right {
-  margin-left: none;
-  padding-left: none;
-  float: right;
+  margin-left: none !important;
+  padding-left: none !important;
+  float: right !important;
 }
 
 /* navigation bar */
