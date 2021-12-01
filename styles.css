@@ -1,14 +1,15 @@
 .content_image {
   outline: 2px solid white;
-  float: left;
   width: 25%;
   height: 200px;
   padding: 2.5%;
   margin: 2.5%;
 }
 
-.content_image.left {
+.left {
   margin-right: none;
+  padding-right: none;
+  float: left;
 }
 
 /*  fix margin */
@@ -24,15 +25,16 @@ img {
 
 .content_textbox {
   outline: 2px solid white;
-  float: right;
   width: 55%;
   height: 200px;
   margin: 2.5%;
   padding: 2.5%;
 }
 
-.content_textbox.right {
+.right {
   margin-left: none;
+  padding-left: none;
+  float: right;
 }
 
 .context_texttitle {
