@@ -30,8 +30,8 @@ img {
 
 .content_image {
   outline: 2px solid white;
-  width: 25%;
-  height: 200px;
+  width: 30%;
+  height: 300px;
   padding: 2.5%;
   margin: 2.5%;
 }
@@ -39,7 +39,7 @@ img {
 .content_textbox {
   outline: 2px solid white;
   width: 55%;
-  height: 200px;
+  height: 300px;
   margin: 2.5%;
   padding: 2.5%;
 }
