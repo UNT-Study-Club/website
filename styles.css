@@ -1,18 +1,3 @@
-.content_image {
-  outline: 2px solid white;
-  width: 25%;
-  height: 200px;
-  padding: 2.5%;
-  margin: 2.5%;
-}
-
-.left {
-  margin-right: none;
-  padding-right: none;
-  float: left;
-}
-
-/*  fix margin */
 body { 
   margin: 0px;
 }
@@ -23,64 +8,7 @@ img {
   object-fit: cover;
 }
 
-.content_textbox {
-  outline: 2px solid white;
-  width: 55%;
-  height: 200px;
-  margin: 2.5%;
-  padding: 2.5%;
-}
-
-.right {
-  margin-left: none;
-  padding-left: none;
-  float: right;
-}
-
-.context_texttitle {
-  padding: 0px;
-  font-size: 40px;
-  margin: 0px;
-}
-
-.content_text {
-  font-size: 25px;
-  padding: 0px;
-  margin: 0px;
-}
-
-/* Add a black background color to the top navigation */
-.topnav {
-  background-color: #2C3B44;
-  overflow: hidden;
-  color: white;
-  float: inline;
-}
-
-/* Style the links inside the navigation bar */
-.topnav a {
-  float: left;
-  color: #ddd;
-  text-align: center;
-  padding: 16px 14px;
-  text-decoration: none;
-  font-size: 17px;
-}
-
-/* Change the color of links on hover */
-.topnav a:hover {
-  background-color: #ddd;
-  color: black;
-  opacity: 1;
-  transition: 0.3s;
-}
-
-/* Add a color to the active/current link */
-.topnav a.active {
-  background-color: #6a8ea4;
-  color: white;
-}
-
+/* page titles */
 .pagetitle_div {
   background-color: #6a8ea4;
   color: white;
@@ -96,4 +24,78 @@ img {
   font-family: Georgia, serif;
   vertical-align: middle;
   font-size: 400%;
+}
+
+/* content */
+
+.content_image {
+  outline: 2px solid white;
+  width: 25%;
+  height: 200px;
+  padding: 2.5%;
+  margin: 2.5%;
+}
+
+.content_textbox {
+  outline: 2px solid white;
+  width: 55%;
+  height: 200px;
+  margin: 2.5%;
+  padding: 2.5%;
+}
+
+.context_texttitle {
+  padding: 0px;
+  font-size: 40px;
+  margin: 0px;
+}
+
+.content_text {
+  font-size: 25px;
+  padding: 0px;
+  margin: 0px;
+}
+
+/* positioning */
+
+.left {
+  margin-right: none;
+  padding-right: none;
+  float: left;
+}
+
+.right {
+  margin-left: none;
+  padding-left: none;
+  float: right;
+}
+
+/* navigation bar */
+
+.topnav {
+  background-color: #2C3B44;
+  overflow: hidden;
+  color: white;
+  float: inline;
+}
+
+.topnav a {
+  float: left;
+  color: #ddd;
+  text-align: center;
+  padding: 16px 14px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+  opacity: 1;
+  transition: 0.3s;
+}
+
+.topnav a.active {
+  background-color: #6a8ea4;
+  color: white;
 }
