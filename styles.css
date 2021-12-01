@@ -71,6 +71,16 @@ img {
   float: right !important;
 }
 
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.sticky + body {
+  padding-top: 60px;
+}
+
 /* navigation bar */
 
 .topnav {
