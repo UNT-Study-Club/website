@@ -21,7 +21,7 @@ img {
   outline: 2px solid black;
   float: right;
   width: 55%;
-  height: 400px;
+  height: 200px;
   margin: 2.5% 2.5% 2.5% 0%;
   padding: 2.5%;
 }
@@ -33,7 +33,7 @@ img {
 }
 
 .content_text {
-  font-size: 20px;
+  font-size: 25px;
   padding: 0px;
   margin: 0px;
 }
