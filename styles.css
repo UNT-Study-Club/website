@@ -33,6 +33,7 @@ img {
 
 .content_textbox.right {
   margin-left: none;
+  float: right;
 }
 
 .context_texttitle {
