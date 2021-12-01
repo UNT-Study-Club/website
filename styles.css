@@ -27,13 +27,12 @@ img {
   float: right;
   width: 55%;
   height: 200px;
-  margin: 2.5% 2.5% 2.5% 0%;
+  margin: 2.5%;
   padding: 2.5%;
 }
 
 .content_textbox.right {
   margin-left: none;
-  float: right;
 }
 
 .context_texttitle {
