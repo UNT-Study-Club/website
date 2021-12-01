@@ -7,7 +7,8 @@
   margin: 2.5%;
 }
 
-body {
+/*  fix margin */
+body { 
   margin: 0px;
 }
 
@@ -18,7 +19,7 @@ img {
 }
 
 .content_textbox {
-  outline: 2px solid black;
+  outline: 2px solid white;
   float: right;
   width: 55%;
   height: 200px;
