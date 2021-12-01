@@ -83,14 +83,14 @@ img {
 
 /* navigation bar */
 
-.topnav {
+#topnav {
   background-color: #2C3B44;
   overflow: hidden;
   color: white;
   float: inline;
 }
 
-.topnav a {
+#topnav a {
   float: left;
   color: #ddd;
   text-align: center;
@@ -99,14 +99,14 @@ img {
   font-size: 17px;
 }
 
-.topnav a:hover {
+#topnav a:hover {
   background-color: #ddd;
   color: black;
   opacity: 1;
   transition: 0.3s;
 }
 
-.topnav a.active {
+#topnav a.active {
   background-color: #6a8ea4;
   color: white;
 }
