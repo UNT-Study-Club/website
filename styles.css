@@ -59,14 +59,14 @@ img {
 /* positioning */
 
 .left {
-  margin-right: none !important;
-  padding-right: none !important;
+  margin-right: 0 !important;
+  padding-right: 0 !important;
   float: left !important;
 }
 
 .right {
-  margin-left: none !important;
-  padding-left: none !important;
+  margin-left: 0 !important;
+  padding-left: 0 !important;
   float: right !important;
 }
 
