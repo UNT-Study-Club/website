@@ -30,13 +30,13 @@ img {
 
 .content {
   display: inline-block;
-  margin:auto;
+  margin: auto;
 }
 
 .content_image {
   outline: 2px solid white;
   width: 25%;
-  height: 50%;
+  max-height: 50%;
   padding: 2.5%;
   margin: 2.5%;
 }
