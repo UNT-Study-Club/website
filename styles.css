@@ -14,6 +14,7 @@ img {
   width: auto !important;
   font-size: 17px;
   padding-right: 2%;
+  float: inline-end;
 }
 
 .fa {
