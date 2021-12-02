@@ -55,7 +55,8 @@ img {
 }
 
 .pagetitle_text {
-  color: #6a8ea4;
+  color: black;
+  font-style: bold;
   margin: auto;
   text-align: center;
   font-family: Georgia, serif;
