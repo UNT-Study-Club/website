@@ -10,6 +10,10 @@ img {
 
 /* icons */
 
+.logo {
+  width: auto !important;
+}
+
 .fa {
   padding: 3px;
   width: 13px;
