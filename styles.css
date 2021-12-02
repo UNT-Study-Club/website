@@ -14,14 +14,12 @@ img {
   width: auto !important;
   max-width: 45px;
   vertical-align: center;
+  padding-right: 2%;
 }
 
 .logo_text {
   font-size: 17px;
   padding-right: 5%;
-  padding-left: 2%;
-  padding-top: 0%;
-  padding-bottom: 0%;
   vertical-align: center;
 }
 
