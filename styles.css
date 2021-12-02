@@ -30,6 +30,8 @@ img {
 
 .content {
   float: inline;
+  display: inline-block;
+  margin:auto;
 }
 
 .content_image {
