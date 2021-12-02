@@ -29,6 +29,7 @@ img {
 }
 
 /* page titles */
+
 .pagetitle_div {
   background-color: #6a8ea4;
   color: white;
@@ -96,13 +97,13 @@ img {
 }
 
 .sticky {
-  position: fixed;
-  top: 0;
-  width: 100%;
+  position: fixed !important;
+  top: 0 !important;
+  width: 100% !important;
 }
 
 .sticky + body {
-  padding-top: 60px;
+  padding-top: 60px !important;
 }
 
 /* navigation bar */
