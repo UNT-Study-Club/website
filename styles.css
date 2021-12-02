@@ -12,15 +12,15 @@ img {
 
 .fa {
   padding: 3px;
-  width: 10px;
-  height: 10px;
+  width: 13px;
+  height: 13px;
   font-size: 30px;
   text-align: center;
   text-decoration: none;
   background: white;
   color: #6a8ea4;
   border-radius: 50%;
-  vertical-align: center;
+  float: bottom;
   margin: auto;
 }
 
