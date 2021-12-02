@@ -46,7 +46,7 @@ img {
 
 .pagetitle_div {
   background-image: url(woodbackground.jpg);
-  background-size: cover;
+  background-size: 100% 100%;
   background-color: #6a8ea4;
   color: white;
   height: 40%;
