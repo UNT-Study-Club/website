@@ -18,6 +18,7 @@ img {
   text-decoration: none;
   background: white;
   color: #6a8ea4;
+  border-radius: 50%;
 }
 
 .social:hover {
