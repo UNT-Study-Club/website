@@ -10,7 +10,7 @@ img {
 
 /* icons */
 
-.social {
+.fa {
   padding: 20px;
   font-size: 30px;
   width: 50px;
@@ -21,7 +21,7 @@ img {
   border-radius: 50%;
 }
 
-.social:hover {
+.fa:hover {
   opacity: 0.7;
 }
 
