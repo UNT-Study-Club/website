@@ -13,12 +13,15 @@ img {
 .fa {
   padding: 20px;
   font-size: 30px;
-  width: 50px;
+  width: 5%;
+  height: 5%;
   text-align: center;
   text-decoration: none;
   background: white;
   color: #6a8ea4;
   border-radius: 50%;
+  vertical-align: center;
+  margin: auto;
 }
 
 .fa:hover {
