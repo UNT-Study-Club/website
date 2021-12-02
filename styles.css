@@ -12,12 +12,12 @@ img {
 
 .logo_img {
   width: auto !important;
-  font-size: 17px;
 }
 
 .logo_text {
   font-size: 17px;
   padding-right: 5%;
+  padding-left: 1%;
 }
 
 .fa {
