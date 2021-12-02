@@ -10,11 +10,15 @@ img {
 
 /* icons */
 
-.logo {
+.logo_img {
   width: auto !important;
+  max-width: 15px !important;
   font-size: 17px;
-  padding-right: 2%;
-  float: inline-end;
+}
+
+.logo_text {
+  font-size: 17px;
+  padding-right: 5%;
 }
 
 .fa {
