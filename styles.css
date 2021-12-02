@@ -13,7 +13,8 @@ img {
 .logo {
   width: auto !important;
   font-size: 17px;
-  padding: 2.5%;
+  padding-left: 2.5%;
+  padding-right: 2.5%;
 }
 
 .fa {
