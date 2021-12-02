@@ -28,6 +28,10 @@ img {
 
 /* content */
 
+.content {
+  float: inline;
+}
+
 .content_image {
   outline: 2px solid white;
   width: 25%;
@@ -39,7 +43,6 @@ img {
 .content_textbox {
   outline: 2px solid white;
   width: 60%;
-  height: 50%;
   margin: 2.5%;
   padding: 2.5%;
 }
