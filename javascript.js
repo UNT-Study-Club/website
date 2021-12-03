@@ -23,8 +23,8 @@ function sticky_scroll() {
 }
 
 $(document).ready(function() {
-    $('body').hide();
+    $('head').hide();
     $(window).on('load', function() {
-        $('body').show();
+        $('head').show();
     });
 });
